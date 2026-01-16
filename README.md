@@ -1,3 +1,13 @@
+Grades of Members:
+
+Bitanga:97
+Olaño: 100
+Paciente: 98
+Padilla: 99
+Sanguir: 96
+
+
+
 Objectives:
 - Understand and implement Arduino Serial Connection
 - Utilize Python as a tool for implementing serial connection
